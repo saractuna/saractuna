@@ -5,37 +5,34 @@
 <h2>👨‍💻 Games Development Projects:</h2>
 
 - [<b>Moonwalk</b>](www.youtube.com)  <b>|</b>  <i>2D<i/>
-  - A 2D infinite-walker game developed to demonstrate core OOP principles including encapsulation, inheritance, and composition. Features class-based architecture for weapons and enemies, dynamic loot drops for progression, and escalating difficulty as enemies overwhelm the player.
+  - A 2D infinite-walker game developed to demonstrate core OOP principles including encapsulation, inheritance, and composition. Features class-based architecture for weapons and enemies and loot drops for progression.
 
 - [<b>Forest Frenzy</b>](www.youtube.com)  <b>|</b>  <i>3D<i/>
-  - Forest Frenzy
+  - An arcade-style game combining boomerang-based camera physics, target shooting and dodge-mechanics in a forest setting. Players compete against the clock to hit spawning beehives across a river while evading falling objects, with randomized powerups adding unpredictability.
  
 - [<b>Loudbird</b>](www.youtube.com)  <b>|</b>  <i>2D<i/>
-  - Ransomware Proof of Concept (Encrypter)
+  - 2D arcade game where players catch falling coins and dodge bombs against the clock to maximize their score. The game features innovative voice-control mechanics using basic vocal commands and integrates a cloud-based PlayFab database system that enables account creation, login authentication, and competitive leaderboard tracking.
   
 - [<b>Accessible Interface Project</b>](www.youtube.com)  <b>|</b>  <i>UI<i/>
-  - Accessible and Responive UI Design with Minimap
+  - A responsive, accessible UI system designed to adapt across multiple screen sizes and aspect ratios while maintaining usability and visual clarity. Features a minimap window component for in-game navigation.
   
 - [<b>Construction Walk</b>](www.youtube.com)  <b>|</b>  <i>3D<i/>
-  - Package Delivery Application (Datastructures and Algorithms Demo)
+  - A 2D Unity project focused on fundamental physics mechanics, featuring realistic water buoyancy, player jumping/climbing systems, and interactive collectibles. Built to demonstrate core physics concepts through hands-on implementation, Construction Walk highlights practical rigidbody behavior, collision detection, and environmental interaction design.
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Preview</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Cybersecurity Starting From Zero](www.youtube.com)
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="100px" src="https://github.com/user-attachments/assets/398b3c6e-2bc1-4d24-abb0-1ed17c381ac7" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="100px" src="https://github.com/user-attachments/assets/398b3c6e-2bc1-4d24-abb0-1ed17c381ac7"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/saractuna/
+
 
 
 <!--
