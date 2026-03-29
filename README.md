@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Games Development Projects:</h2>
 
-- [<b>Moonwalk</b>](github.com/saractuna/Moonwalk)  <b>|</b>  <i>2D<i/>
+- [<b>Moonwalk</b>](https://github.com/saractuna/Moonwalk)  <b>|</b>  <i>2D<i/>
   - A 2D infinite-walker game developed to demonstrate core OOP principles including encapsulation, inheritance, and composition. Features class-based architecture for weapons and enemies and loot drops for progression.
 
 - [<b>Forest Frenzy</b>](www.youtube.com)  <b>|</b>  <i>3D<i/>
