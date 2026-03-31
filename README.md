@@ -1,4 +1,4 @@
-<h1>Hey, I'm Tuna!<br/><a href="www.youtube.com">Games Development Student</a></h1>
+<h1>Hey, I'm Tuna!<br/><a href="https://github.com/saractuna/">Technical Games Designer</a></h1>
 
 
 
