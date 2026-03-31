@@ -16,7 +16,7 @@
 - [<b>Accessible Interface Project</b>](www.youtube.com)  <b>|</b>  <i>UI<i/>
   - A responsive, accessible UI system designed to adapt across multiple screen sizes and aspect ratios while maintaining usability and visual clarity. Features a minimap window component for in-game navigation.
   
-- [<b>Construction Walk</b>](www.youtube.com)  <b>|</b>  <i>3D<i/>
+- [<b>Construction Walk</b>](https://github.com/saractuna/Construction-Walk)  <b>|</b>  <i>3D<i/>
   - A 2D Unity project focused on fundamental physics mechanics, featuring realistic water buoyancy, player jumping/climbing systems, and interactive collectibles. Built to demonstrate core physics concepts through hands-on implementation, Construction Walk highlights practical rigidbody behavior, collision detection, and environmental interaction design.
 
 
