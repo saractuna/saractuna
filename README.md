@@ -10,10 +10,10 @@
 - [<b>Forest Frenzy</b>](https://github.com/saractuna/Forest-Frenzy)  <b>|</b>  <i>3D<i/>
   - An arcade-style game combining boomerang-based camera physics, target shooting and dodge-mechanics in a forest setting. Players compete against the clock to hit spawning beehives across a river while evading falling objects, with randomized powerups adding unpredictability.
  
-- [<b>Loudbird</b>](www.youtube.com)  <b>|</b>  <i>2D<i/>
+- [<b>Loudbird</b>](https://github.com/saractuna/Loudbird)  <b>|</b>  <i>2D<i/>
   - 2D arcade game where players catch falling coins and dodge bombs against the clock to maximize their score. The game features innovative voice-control mechanics using basic vocal commands and integrates a cloud-based PlayFab database system that enables account creation, login authentication, and competitive leaderboard tracking.
   
-- [<b>Accessible Interface Project</b>](www.youtube.com)  <b>|</b>  <i>UI<i/>
+- [<b>Accessible Interface Project</b>](https://github.com/saractuna/Accessible-Interface)  <b>|</b>  <i>UI<i/>
   - A responsive, accessible UI system designed to adapt across multiple screen sizes and aspect ratios while maintaining usability and visual clarity. Features a minimap window component for in-game navigation.
   
 - [<b>Construction Walk</b>](https://github.com/saractuna/Construction-Walk)  <b>|</b>  <i>3D<i/>
