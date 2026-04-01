@@ -23,7 +23,9 @@
 
 <h2>📺 Trailer</h2>
 
-https://github.com/user-attachments/assets/d3b0e954-af33-4e14-94f3-d6390e0af721
+https://github.com/user-attachments/assets/7274d983-98c1-4f3a-827d-3c388f36d5c9
+
+
 
 
 
