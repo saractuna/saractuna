@@ -25,6 +25,8 @@
 
 - [How to get into Cybersecurity Starting From Zero](www.youtube.com)
 
+https://github.com/user-attachments/assets/5c59fbbf-ff19-4130-8ac7-1852b353d07d
+
 
 
 <h2> 🤳 Connect with me:</h2>
