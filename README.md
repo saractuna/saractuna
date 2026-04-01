@@ -21,11 +21,11 @@
 
 
 
-<h2>📺 Preview</h2>
+<h2>📺 Trailer</h2>
 
-- [How to get into Cybersecurity Starting From Zero](www.youtube.com)
+https://github.com/user-attachments/assets/d3b0e954-af33-4e14-94f3-d6390e0af721
 
-https://github.com/user-attachments/assets/5c59fbbf-ff19-4130-8ac7-1852b353d07d
+
 
 
 
